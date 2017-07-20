@@ -3,7 +3,7 @@
 In this project a multipurpose alarm clock is created using bash script.
 
 The program starts with main2.sh file which shows GUI to enable user to pick on of the available options.
-         1 "SET ALARM"
+         1 "SET ALARM"<br>
          2 "SEND MAIL"
          3 "EXECUTE A COMMAND"
          4 "OPEN A WEBSITE"
