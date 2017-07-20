@@ -1,6 +1,6 @@
 # Multipurpose_Alarm_Unix
 
-In this project a multipurpose alarm clock is created using bash script.
+In this project a multipurpose alarm clock is created using shell script.
 
 The program starts with main2.sh file which shows GUI to enable user to pick on of the available options.
 
